@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation testing
 - 🌱 I’m currently learning python selenium
 - 💞️ I’m looking to collaborate on implementing my knowledge into a commerce project
-- 📫 How to reach me via telegram @stepanobuelo
+- 📫 Reach me via telegram @stepanobuelo
 
 <!---
 mossymoon/mossymoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
